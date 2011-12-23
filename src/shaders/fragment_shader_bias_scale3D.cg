@@ -1,0 +1,15 @@
+struct output{
+float3 color : COLOR;
+};
+
+output main(float4 color: COLOR,
+float3 texCoord : TEXCOORD0,
+uniform sampler3D decal : TEX0,
+
+uniform float bias,
+uniform float scale)
+{
+output OUT;
+OUT.color = tex3D(decal, texCoord)*scale + bias;
+return OUT;
+}

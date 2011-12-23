@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/3dTexture
+END
+dicom3DTextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/3dTexture/dicom3DTextureManager.cpp
+END
+dicom3DTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/22/trunk/src/3dTexture/dicom3DTexture.cpp
+END
+dicom3DTextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/3dTexture/dicom3DTextureManager.h
+END
+dicom3DTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/3dTexture/dicom3DTexture.h
+END

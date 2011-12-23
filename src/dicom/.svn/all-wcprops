@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/src/dicom
+END
+dicomSerieData.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/dicom/dicomSerieData.h
+END
+dicomHeader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/dicom/dicomHeader.cpp
+END
+dicomHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/dicom/dicomHeader.h
+END
+dicomSerieData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/src/dicom/dicomSerieData.cpp
+END

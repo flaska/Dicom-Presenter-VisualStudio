@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/src/glObjects
+END
+glObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/glObjects/glObject.h
+END
+glImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25/trunk/src/glObjects/glImage.cpp
+END
+glWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/trunk/src/glObjects/glWidget.cpp
+END
+glObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/glObjects/glObject.cpp
+END
+glImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/src/glObjects/glImage.h
+END
+glWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/glObjects/glWidget.h
+END

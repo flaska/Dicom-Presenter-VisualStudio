@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/src/shaders
+END
+fragment_shader_bias_scale2D.cg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/shaders/fragment_shader_bias_scale2D.cg
+END
+fragment_shader_bias_scale3D.cg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/shaders/fragment_shader_bias_scale3D.cg
+END
